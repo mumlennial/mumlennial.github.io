@@ -1,0 +1,46 @@
+# Set theme
+remote_theme: daviddarnes/alembic
+
+# File excludes
+exclude:
+- README.md
+- Gemfile
+- Gemfile.lock
+
+# Set plugins
+plugins:
+- jekyll-sitemap
+- jekyll-mentions
+- jekyll-paginate
+- jekyll-seo-tag
+- jekyll-redirect-from
+- jekyll-default-layout
+- jekyll-feed
+- jemoji
+- jekyll-remote-theme
+
+# Site settings
+url: 'https://mydomain.com'
+baseurl: ''
+title: 'Wherever We Go There We Are'
+description: ''
+permalink: pretty
+
+# Pagination
+paginate: 10
+paginate_path: blog/page:num
+
+# Header nav
+navigation_header:
+  Home: /
+  About: /about/
+
+# Footer nav
+navigation_footer:
+  Back to top: "#top"
+
+# Collections
+collections:
+  posts:
+    title: ''
+    output: true
