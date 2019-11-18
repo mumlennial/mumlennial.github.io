@@ -1,8 +1,8 @@
-const version = '20190527170315';
+const version = '20191117161653';
 const cacheName = `static::${version}`;
 
 const buildContentBlob = () => {
-  return ["/personal,%20travel/2019/05/27/intro-post/","/about/","/categories/","/","/assets/styles.css","/manifest.json","/assets/search.json","/redirects.json","/sitemap.xml","/robots.txt","/feed.xml","", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
+  return ["/australia/investing/tax/2019/11/17/asx20-checkin/","/personal,%20travel/2019/05/27/intro-post/","/saving/portfolio/2019/03/07/whats-your-savings-rate/","/australia/investing/tax/asx/2019/01/20/investing-in-the-s&p-asx-20/","/about/","/categories/","/","/assets/styles.css","/manifest.json","/assets/search.json","/redirects.json","/sitemap.xml","/robots.txt","/feed.xml","", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
   ]
 }
 
