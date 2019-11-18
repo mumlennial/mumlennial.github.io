@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: We're leaving on a jetplane...
 categories:
 - personal, travel

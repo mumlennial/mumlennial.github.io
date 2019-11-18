@@ -1,6 +1,8 @@
 # Set theme
 remote_theme: daviddarnes/alembic
 
+disqus: true
+
 # File excludes
 exclude:
 - README.md

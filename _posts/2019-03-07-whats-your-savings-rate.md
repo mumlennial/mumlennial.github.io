@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "What's your savings rate?"
 date:   2019-03-07 08:22:00 -0500
 categories: [saving, portfolio]
